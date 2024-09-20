@@ -34,23 +34,10 @@ I’ve worked on a variety of impactful projects, from AI-powered video processi
 
 ---
 
-### 📚 Notable Projects
-
-#### 🚀 **Video-Subtitle-Remover (VSR)**
-An AI-powered software that removes hardcoded subtitles from videos and supports automated subtitle translation. Integrated state-of-the-art algorithms like **STTN**, **LAMA**, and **PROPAINTER**, with a seamless user interface via **ComfyUI**.
-
-#### 🛒 **E-commerce for Cat Products**
-Developed a full-stack web application supporting over 500 users, complete with user authentication, account management (via **Firebase**), and integrated payment systems (**PayPal** & credit card). The platform processes over 100 monthly purchases.
-
-#### 🔀 **MySQL to MongoDB Migration Tool**
-Extended an open-source project to support NoSQL migrations, improving database flexibility for modern web applications.
-
----
-
 ### 📈 Let's Connect!
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/qiaowen-mei](https://www.linkedin.com/in/qiaowen-mei-267460233/))  
-- 💻 [Portfolio](https://qiaowen-mei.github.io) (optional if you have one)
+- 💻 [Portfolio](https://mei0707.github.io/Portfolio/#)
 - 📧 Email: mqiaowen@gmail.com
 
 ---
@@ -62,6 +49,3 @@ Extended an open-source project to support NoSQL migrations, improving database 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=qiaowen-mei&color=brightgreen)
