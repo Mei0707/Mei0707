@@ -37,7 +37,7 @@ I've worked on a variety of impactful projects, from AI-powered video processing
 ### 📈 Let's Connect! 🤝
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/qiaowen-mei-267460233/)  
-- 💻 [Portfolio](https://mei0707.github.io/Portfolio/#)  
+- 💻 [Portfolio](https://mei0707.github.io/self-portfolio/)  
 - 📧 Email: [mqiaowen@gmail.com](mailto:mqiaowen@gmail.com)
 
 ---
