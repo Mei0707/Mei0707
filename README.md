@@ -1,52 +1,77 @@
-# Hi, I'm Qiaowen Mei! 👋✨
+<div align="center">
 
-🎓 **Master's Student in Computer Science at Northeastern University**  
-🎯 **Software Engineer Intern** | Passionate about building scalable, efficient solutions.
+# Quinn (Qiaowen) Mei
+
+**Software Engineer · Backend & Systems · CS @ Northeastern University**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qiaowen-mei-267460233/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quincy.mmei@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://mei0707.github.io/self-portfolio/)
+
+</div>
 
 ---
 
 ### About Me
 
-I'm currently pursuing my Master's in Computer Science and expect to graduate in **December 2025**. With a background in **quantitative finance and economics**, I blend analytical skills with technical expertise. My passion lies in creating real-world applications that integrate AI, data processing, and scalable systems. 🚀
+I'm a Master's student in Computer Science at **Northeastern University** (graduating May 2026), with an undergraduate background in **Quantitative Finance and Economics**. I build backend systems and developer tools that are fast, reliable, and built to scale.
 
-I've worked on a variety of impactful projects, from AI-powered video processing tools to e-commerce platforms. I'm always excited to leverage new technologies to solve complex problems. 
+My experience spans distributed systems, video processing pipelines, AI-powered applications, and cloud-native architectures. I'm drawn to problems at the intersection of systems engineering and real-world impact — where performance and correctness actually matter.
 
 ---
 
-### 🔧 Technologies & Tools
-- **Languages**: 🐍 Python, ☕ Java, ⚛️ JavaScript (React, Node.js, Typescript), C++, C, Go, Ruby, Swift, R, Shell
-- **Web Development**: 🌐 React, Django, Flask, Angular, HTML, CSS
-- **Databases**: 🗄️ MySQL, MongoDB, Firebase
-- **DevOps**: 🚀 Docker, Git, AWS, Google Cloud Platform, Linux
-- **AI/ML**: 🤖 TensorFlow, Keras, NLP, LLMs
-- **Other Tools**: 🛠️ Postman, Firebase, AWS, Google Cloud
+### 🛠 Technical Skills
+
+**Languages**
+`Python` `C++` `Go` `JavaScript / TypeScript` `Java` `C#` `SQL`
+
+**Backend & Frameworks**
+`Node.js` `Express` `Django` `Spring Boot` `Gin` `REST APIs`
+
+**Systems & Infrastructure**
+`Docker` `Kubernetes` `AWS (Lambda · S3 · DynamoDB · API Gateway · SQS/SNS)` `Redis` `CI/CD` `CMake` `FFmpeg` `OpenGL`
+
+**Databases**
+`MySQL` `MongoDB` `Redis` `DynamoDB`
+
+**Testing & Tooling**
+`Google Test` `Jest` `Git` `Webpack` `Vite`
 
 ---
 
 ### 💼 Experience
-**Algorithm Engineer - SuperADS**  
-- Developed and integrated 🎥 video subtitle translation solutions into ComfyUI.
-- Worked on rendering engines using **OpenGL** for media processing.
-- Implemented and optimized algorithmic solutions for various media processing tasks. 
 
-**Open-Source Contributor - MySQL Migration Tools**  
-- Added NoSQL migration features to MySQL migration tools, enhancing their usability for modern applications.
+**Software Engineer Intern — SuperADS** *(Jun – Aug 2024 · Guangzhou, China)*
+
+Built a distributed video translation microservice handling **500+ concurrent requests** with a Redis-based job queue and async processing, cutting API latency by **20%**. Developed multithreaded C++ video pipelines using OpenGL and FFmpeg with AI-driven subtitle removal (STTN, LAMA, ProPainter), improving throughput by **30%**. Integrated third-party translation APIs into an automated localization workflow that eliminated manual bottlenecks entirely, and established CI/CD with Google Test achieving **85% code coverage** and **40% fewer production bugs**.
 
 ---
 
-### 📈 Let's Connect! 🤝
+### 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/qiaowen-mei-267460233/)  
-- 💻 [Portfolio](https://mei0707.github.io/self-portfolio/)  
-- 📧 Email: [mqiaowen@gmail.com](mailto:mqiaowen@gmail.com)
+#### [GradHunt — AI-Powered Job Search Platform](https://github.com/mei0707)
+`React` `Node.js` `MongoDB` `AWS Serverless` `OpenAI`
 
----
-
-### 👀 What I'm Working On
-- 🌟 Exploring new AI models for enhancing video processing tools.
-- ☁️ Building cloud-based solutions for scalable web applications.
-- 🌱 Actively contributing to open-source projects, particularly in the fields of database migration and media processing.
+A full-stack job search platform built for scale, supporting 500+ concurrent users on a serverless AWS backend. It aggregates listings from multiple sources, deduplicates them with fuzzy matching, and uses OpenAI embeddings to rank jobs against a user's resume — all with secure token-based authentication.
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects! 🎉
+#### [Mini Search Engine](https://github.com/mei0707)
+`C++` `BM25` `CMake` `GPT-4`
+
+A search engine built from scratch over 300K+ Wikipedia articles, implementing the full BM25 indexing and retrieval pipeline in C++. Features typo-tolerant query correction and optional GPT-4 query rewriting, with a modular OOP architecture (Tokenizer, InvertedIndex, Ranker) designed for pluggable ranking algorithms.
+
+---
+
+#### [Distributed Task Queue System](https://github.com/mei0707)
+`Go` `Redis` `Asynq` `Gin`
+
+A production-grade async task queue in Go for offloading email delivery and image processing from the synchronous request path. Supports priority scheduling, delayed jobs, retries, and dead-letter handling, with a built-in monitoring dashboard that cut debugging time by **40%**.
+
+---
+
+### 📬 Let's Connect
+
+I'm actively looking for **new grad software engineering roles** (backend / full-stack) starting mid-2026. Open to reaching out — always happy to talk systems, code, or career.
+
+→ **quincy.mmei@gmail.com** · [LinkedIn](https://www.linkedin.com/in/qiaowen-mei-267460233/)
